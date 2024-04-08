@@ -16,59 +16,59 @@
 const images = [
   {
     id: 1,
-    src: "/photo/01.jpg",
+    src: "/photo/01.webp",
   },
   {
     id: 5,
-    src: "/photo/05.jpg",
+    src: "/photo/05.webp",
   },
   {
     id: 16,
-    src: "/photo/16.jpg",
+    src: "/photo/16.webp",
   },
   {
     id: 25,
-    src: "/photo/25.jpg",
+    src: "/photo/25.webp",
   },
   {
     id: 26,
-    src: "/photo/26.jpg",
+    src: "/photo/26.webp",
   },
   {
     id: 34,
-    src: "/photo/34.jpg",
+    src: "/photo/34.webp",
   },
   {
     id: 40,
-    src: "/photo/40.jpg",
+    src: "/photo/40.webp",
   },
   {
     id: 43,
-    src: "/photo/43.jpg",
+    src: "/photo/43.webp",
   },
   {
     id: 45,
-    src: "/photo/45.jpg",
+    src: "/photo/45.webp",
   },
   {
     id: 52,
-    src: "/photo/52.jpg",
+    src: "/photo/52.webp",
   },
   {
     id: 70,
-    src: "/photo/70.jpg",
+    src: "/photo/70.webp",
   },
   {
     id: 76,
-    src: "/photo/76.jpg",
+    src: "/photo/76.webp",
   },
   {
     id: 78,
-    src: "/photo/78.jpg",
+    src: "/photo/78.webp",
   },
   {
     id: 101,
-    src: "/photo/101.jpg",
+    src: "/photo/101.webp",
   },
 ];
 </script>

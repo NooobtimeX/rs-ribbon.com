@@ -1,7 +1,7 @@
 <template>
   <div class="relative h-full">
     <img
-      src="/panel/hero_section.jpg"
+      src="/panel/hero_section.webp"
       class="w-full h-auto rounded-b-none"
       alt="RS RIBBON PANEL"
       title="RS RIBBON PANEL"
@@ -12,7 +12,7 @@
     <div class="grid grid-cols-4">
       <div>
         <img
-          src="/tone/1.png"
+          src="/panel/1.webp"
           class="w-full h-auto rounded-none rounded-es-xl"
           alt="เหรียญรางวัล"
           title="เหรียญรางวัล"
@@ -30,7 +30,7 @@
       </div>
       <div>
         <img
-          src="/tone/4.png"
+          src="/panel/4.webp"
           class="w-full h-auto rounded-none rounded-br-xl"
           alt="เหรียญรางวัล"
           title="เหรียญรางวัล"
@@ -45,11 +45,11 @@
 const images = [
   {
     id: 2,
-    src: "/tone/2.png",
+    src: "/panel/2.webp",
   },
   {
     id: 3,
-    src: "/tone/3.png",
+    src: "/panel/3.webp",
   },
 ];
 </script>
