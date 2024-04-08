@@ -1,7 +1,7 @@
 <template>
   <div class="relative h-full">
     <img
-      src="/panel/hero_section.webp"
+      src="/panel/hero_section.jpg"
       class="w-full h-auto rounded-b-none"
       alt="RS RIBBON PANEL"
       title="RS RIBBON PANEL"

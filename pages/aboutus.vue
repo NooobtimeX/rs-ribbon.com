@@ -18,7 +18,7 @@ useSeoMeta({
 <template>
   <div>
     <img
-      src="/panel/hero_section.webp"
+      src="/panel/hero_section.jpg"
       alt="logo"
       title="logo"
       class="z-10 w-full rounded"
