@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="grid gap-1 grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6"
-  >
+  <div class="grid gap-1 grid-cols-4 md:grid-cols-5 lg:grid-cols-6">
     <div v-for="image in images" :key="image.id">
       <img
         :src="image.src"
