@@ -7,6 +7,8 @@
         alt="ริบบิ้น"
         title="ริบบิ้น"
         ariaLabel="ริบบิ้น"
+        width="300px"
+        height="300px"
       />
     </div>
   </div>
