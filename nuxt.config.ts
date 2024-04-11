@@ -42,7 +42,7 @@ export default defineNuxtConfig({
     "nuxt-simple-sitemap",
   ],
   site: {
-    url: "http://www.rs-medal.com",
+    url: "https://www.rs-ribbon.com/",
   },
   robots: {
     UserAgent: "*",
