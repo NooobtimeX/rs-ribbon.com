@@ -1,7 +1,7 @@
 <template>
   <div class="grid gap-1 grid-cols-4 md:grid-cols-5 lg:grid-cols-6">
     <div v-for="image in images" :key="image.id">
-      <img
+      <img  
         :src="image.src"
         class="w-full h-auto"
         alt="ริบบิ้น"
